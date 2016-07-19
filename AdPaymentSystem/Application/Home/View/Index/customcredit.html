@@ -1,0 +1,50 @@
+<extend name="./ShareView/Layout.html" />
+<block name="PageTitle">首页</block>
+<block name="Head">
+<script type="text/javascript">
+    var error = '{$error}'.length > 0 ? (JSON.parse('{$error}')) : [];
+    var vm = avalon.define({
+        $id: "import",
+        error: error
+    });
+    console.log(error);
+</script>
+</block>
+<block name="Body">
+    <div class="col-md-12 text-title ft-em15 padding10">客户贷方导入</div>
+    <form class="well form-horizontal" id="fromlist" ms-controller="import" enctype="multipart/form-data" action="{:U('Index/customcredit')}" method="POST">
+        <input type="hidden" name="import" value="导入" />
+        <div class="form-group">
+            <label class="col-sm-12"><span>导入说明:</span></label>
+            <ol class="col-sm-12">
+                <li>1.导入的数据必须是标准化数据，如：日期必须为标准日期格式</li>
+                <li>2.导入的数据必须有列标题，如：年月，客户名称，本期贷方；</li>
+                <li>3.导入的数据必须是Excel（*.xls或*.xlsx）类型的文件；</li>
+            </ol>
+        </div>
+
+
+        <div class="form-group">
+            <label class="col-sm-1" for="excel">文件地址:</label>
+            <input type="file" name="excel" id="excel" class="col-sm-4" value=" " />
+
+        </div>
+
+        <input type="submit" name="bOK" id="bOK" class="btn btn-primary" value="导入" />
+    </form>
+
+    <div ms-controller="import" ms-if="error!=null && error.length>0">
+        <table class="table table-hover table-bordered" id="show">
+            <tr>
+                <th>客户名称</th>
+                <th>问题字段数据</th>
+                <th>问题说明</th>
+            </tr>
+            <tr ms-repeat="error">
+                <td>{{el.data.customname}}</td>
+                <td>{{el.data.error}}</td>
+                <td>{{el.msg}}</td>
+            </tr>
+        </table>
+    </div>
+</block>

@@ -1,0 +1,460 @@
+[ 2016-05-23T16:08:50+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.73107133153826
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php ç¬¬ 44 è¡Œ.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php ç¬¬ 12 è¡Œ.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php ç¬¬ 137 è¡Œ.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php ç¬¬ 137 è¡Œ.
+
+[ 2016-05-23T16:08:50+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php ç¬¬ 44 è¡Œ.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php ç¬¬ 54 è¡Œ.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php ç¬¬ 55 è¡Œ.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php ç¬¬ 56 è¡Œ.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php ç¬¬ 135 è¡Œ.
+
+[ 2016-05-23T10:02:52+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.9853201287332922&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:02:58+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.7917667243164033&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:02:59+08:00 ] 172.30.16.87 /index.php/Home/Custom/detailajax?r=0.9413002349901944&customname=&month=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+
+[ 2016-05-23T10:03:05+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.6393070977646858&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:03:08+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.3256893767975271&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:03:12+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.7215393863152713&customname=&year=2015
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:03:14+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.20950874546542764&customname=&year=2015
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:03:17+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.13547437964007258&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-05-23T10:04:36+08:00 ] 127.0.0.1 /index.php/Home/Custom/monthajax?r=0.8562838397920132&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0500s ]
+
+[ 2016-05-23T11:06:51+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.24324417021125555&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:06:52+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.658239713171497&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:06:53+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.6140409554354846&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:07:00+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.32139150728471577&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:08:05+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.6618822705931962&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0010s ]
+
+[ 2016-05-23T11:08:10+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.0933278538286686&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.016600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0020s ]
+
+[ 2016-05-23T11:08:12+08:00 ] 172.30.16.87 /index.php/Home/Custom/detailajax?r=0.9336521499790251&customname=&month=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+
+[ 2016-05-23T11:08:18+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.11157049681060016&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:08:19+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.8166496178600937&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0010s ]
+
+[ 2016-05-23T11:08:28+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.3837766218930483&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:08:34+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.48886160529218614&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0010s ]
+
+[ 2016-05-23T11:08:38+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.03654220374301076&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0156s ]
+
+[ 2016-05-23T11:09:03+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.40215704194270074&customname=&month=2016-02
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-02' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-02' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-02' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-02' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-02' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-02' [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:09:07+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.3496964939404279&customname=&month=
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0010s ]
+
+[ 2016-05-23T11:09:14+08:00 ] 172.30.16.87 /index.php/Home/Custom/detailajax?r=0.2564612317364663&customname=&month=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+
+[ 2016-05-23T11:09:18+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.6851161911617965&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0000s ]
+
+[ 2016-05-23T11:13:34+08:00 ] 172.30.16.87 /index.php/Home/Custom/detailajax?r=0.8169417167082429&customname=&month=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+
+[ 2016-05-23T11:13:36+08:00 ] 172.30.16.87 /index.php/Home/Custom/monthajax?r=0.3582158947829157&customname=&month=2016-05
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016-05' as month,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-05' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-05' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth='2016-05' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth='2016-05' group by customname) credit2
+on main.customname=credit2.customname where main.yearmonth<'2016-05' [ RunTime:0.0156s ]
+
+[ 2016-05-23T11:13:37+08:00 ] 172.30.16.87 /index.php/Home/Custom/yearajax?r=0.1897786078043282&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+SQL: select '2016'as year,main.customname,main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0) as defaultmoney,ifnull(debit2.debitmoneysum2,0) as debitmoney,
+ifnull(credit2.creditmoneysum2,0) as creditmoney,
+main.defaultmoney-ifnull(debit1.debitmoneysum1,0)+ifnull(credit1.creditmoneysum1,0)-ifnull(debit2.debitmoneysum2,0)+ifnull(credit2.creditmoneysum2,0) as finalmoney from adpayment.ad_defaultmoney main
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum1  FROM adpayment.ad_customdebit where yearmonth<'2016-01' group by customname) debit1
+on main.customname=debit1.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum1 FROM adpayment.ad_customcredit where yearmonth<'2016-01' group by customname) credit1
+on main.customname=credit1.customname
+
+left join  (SELECT customname,sum(debitmoney) as debitmoneysum2  FROM adpayment.ad_customdebit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) debit2
+on main.customname=debit2.customname
+
+left join  (SELECT customname,sum(creditmoney) as creditmoneysum2 FROM adpayment.ad_customcredit where yearmonth>='2016-01' and yearmonth<='2016-12' group by customname) credit2
+on main.customname=credit2.customname where 1=1 [ RunTime:0.0000s ]
+

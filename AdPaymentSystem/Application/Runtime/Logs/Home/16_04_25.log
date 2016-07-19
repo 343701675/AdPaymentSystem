@@ -1,0 +1,1505 @@
+[ 2016-04-25T08:38:11+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.2265308010391891
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T08:38:11+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.3867437527514994
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T08:38:11+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.4189373643603176
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T08:38:11+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.6685012585949153
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T08:38:12+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T08:38:12+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T08:38:15+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T08:38:16+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T08:38:16+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T08:38:16+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T08:38:16+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.07157877460122108&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T08:38:16+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.400648056762293&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T09:00:31+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.3803933875169605
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T09:00:32+08:00 ] 127.0.0.1 /index.php/Home/Common/JobNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:00:32+08:00 ] 127.0.0.1 /index.php/Home/Common/SalaryNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:00:32+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:00:32+08:00 ] 127.0.0.1 /index.php/Home/Common/DefaultAccAllowance
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:00:32+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:16:45+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.7916557097341865
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T09:16:45+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:16:46+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:16:46+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.9346580354031175&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T09:16:46+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.9054465675726533&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T09:41:07+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.6316400757059455
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T09:41:07+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.016601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016601s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T09:41:10+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.5459289161954075
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T09:41:10+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T13:42:28+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.4292217188049108
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T13:42:31+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:06:56+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.2740126121789217
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T14:06:56+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:06:57+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:06:57+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.30791979655623436&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T14:06:57+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.7864336192142218&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T14:59:01+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.6609800870064646
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T14:59:01+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.16477926028892398
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T14:59:01+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:02+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:02+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:02+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.18474130262620747
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T14:59:02+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:03+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:03+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.9465955141931772&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T14:59:03+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.13377048471011221&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T14:59:10+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.18091017054393888
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T14:59:10+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:10+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T14:59:10+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.20643605152145028&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T14:59:10+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.879048474598676&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T15:03:36+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.9781561309937388
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:03:36+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:03:36+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:03:36+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.37454446917399764&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T15:03:36+08:00 ] 127.0.0.1 /index.php/Common/CityList?r=0.012432153802365065&provinceID=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetCitys() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 18 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 158 行.
+
+[ 2016-04-25T15:33:32+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.49366050492972136
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:33:33+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:33:41+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.6785089813638479
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:33:41+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:37:13+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.527420703554526
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:37:13+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:37:45+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.3177578414324671
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:37:45+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:40:27+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.7369742863811553
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:40:28+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:40:39+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.16978201176971197
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:40:39+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:54:56+08:00 ] 172.30.16.87 /index.php/Index/loginin
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8192] Function split() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\IndexController.class.php 第 28 行.
+NOTIC: [8] Undefined variable: IP E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Undefined variable: MAC E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\IndexController.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant Username - assumed 'Username' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\ILogin.class.php 第 15 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant ID - assumed 'ID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\function.php 第 287 行.
+NOTIC: [8] Use of undefined constant Username - assumed 'Username' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\function.php 第 287 行.
+NOTIC: [8] Use of undefined constant Admin - assumed 'Admin' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\function.php 第 287 行.
+NOTIC: [8] Use of undefined constant Class2 - assumed 'Class2' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\function.php 第 287 行.
+NOTIC: [8] Use of undefined constant Manager - assumed 'Manager' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\function.php 第 287 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 31 行.
+
+[ 2016-04-25T15:54:56+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.8219041463444273
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:54:56+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:54:59+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.7940434556786735
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:54:59+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:02+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.6965372933206417
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:02+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:03+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.12107849649908264
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:03+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:04+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.46168348829317385
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:04+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:04+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.14837188987573663
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:04+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:05+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.0929504091843153
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:05+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:08+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.38782056442606144
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:08+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:08+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.2044435998723113
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:09+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:09+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.7953897443825815
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:09+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:12+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.14597320195669372
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:12+08:00 ] 172.30.16.87 /index.php/Home/Common/JobNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:12+08:00 ] 172.30.16.87 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:12+08:00 ] 172.30.16.87 /index.php/Home/Common/SalaryNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:12+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:12+08:00 ] 172.30.16.87 /index.php/Home/Common/DefaultAccAllowance
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:58+08:00 ] 172.30.16.87 /index.php/Common/provinceList?r=0.905814342275253
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T15:55:58+08:00 ] 172.30.16.87 /index.php/Home/Common/JobNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:58+08:00 ] 172.30.16.87 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:58+08:00 ] 172.30.16.87 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:58+08:00 ] 172.30.16.87 /index.php/Home/Common/DefaultAccAllowance
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T15:55:58+08:00 ] 172.30.16.87 /index.php/Home/Common/SalaryNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T16:22:33+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.9525743182748556
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T16:22:34+08:00 ] 127.0.0.1 /index.php/Home/Common/JobNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T16:22:34+08:00 ] 127.0.0.1 /index.php/Home/Common/SalaryNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T16:22:34+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T16:22:34+08:00 ] 127.0.0.1 /index.php/Home/Common/DefaultAccAllowance
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T16:22:34+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T16:24:41+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.0668401438742876
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T16:24:42+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:08+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.04454161343164742
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T18:45:09+08:00 ] 127.0.0.1 /index.php/Home/Common/JobNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:09+08:00 ] 127.0.0.1 /index.php/Home/Common/SalaryNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:09+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:09+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:11+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.7711109588854015
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T18:45:11+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:11+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:45:14+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.12078407243825495
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T18:45:14+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:46:02+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.335831735515967
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T18:46:03+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T18:47:05+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.3263576121535152
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T18:47:05+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T20:58:26+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.11093123746104538
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T20:58:26+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.46358453668653965
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T20:58:26+08:00 ] 127.0.0.1 /index.php/Home/Common/JobNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T20:58:26+08:00 ] 127.0.0.1 /index.php/Home/Common/SalaryNumber
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T20:58:27+08:00 ] 127.0.0.1 /index.php/Home/Common/GetClass1Dt
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T20:58:27+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T20:58:27+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+
+[ 2016-04-25T20:58:28+08:00 ] 127.0.0.1 /index.php/Common/provinceList?r=0.7094485356938094
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::GetProvinces() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Controller\CommonController.class.php 第 12 行.
+NOTIC: [8192] Non-static method Common\Common\Enum::ProvinceArray() should not be called statically, assuming $this from incompatible context E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+NOTIC: [8] Undefined variable: XmlFile E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\Enum.class.php 第 137 行.
+
+[ 2016-04-25T20:58:28+08:00 ] 127.0.0.1 /index.php/Home/Common/GetSalaryReport
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined offset: 0 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 135 行.
+

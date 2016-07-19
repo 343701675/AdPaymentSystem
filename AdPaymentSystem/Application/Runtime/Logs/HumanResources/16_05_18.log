@@ -1,0 +1,75 @@
+[ 2016-05-18T08:04:04+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/stafflistavalon?r=0.6629015139769763&keywords=&keytype=0&admin=0&class2=0&manager=-1&ischecked=-1&startjoindate=&endjoindate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant keywords - assumed 'keywords' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant keytype - assumed 'keytype' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant class2 - assumed 'class2' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant manager - assumed 'manager' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant ischecked - assumed 'ischecked' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant startjoindate - assumed 'startjoindate' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant endjoindate - assumed 'endjoindate' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-18T08:38:38+08:00 ] 172.30.16.87 /index.php/HumanResources/Staff/stafflistavalon?r=0.8077728587668389&keywords=&keytype=0&admin=0&class2=0&manager=-1&ischecked=-1&startjoindate=&endjoindate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant keywords - assumed 'keywords' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant keytype - assumed 'keytype' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant class2 - assumed 'class2' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant manager - assumed 'manager' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant ischecked - assumed 'ischecked' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant startjoindate - assumed 'startjoindate' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant endjoindate - assumed 'endjoindate' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-18T08:38:40+08:00 ] 172.30.16.87 /index.php/HumanResources/Staff/stafflistavalon?r=0.9083970440551639&keywords=&keytype=0&admin=0&class2=0&manager=-1&ischecked=-1&startjoindate=&endjoindate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant keywords - assumed 'keywords' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant keytype - assumed 'keytype' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant admin - assumed 'admin' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant class2 - assumed 'class2' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant manager - assumed 'manager' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant ischecked - assumed 'ischecked' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 41 行.
+NOTIC: [8] Use of undefined constant startjoindate - assumed 'startjoindate' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant endjoindate - assumed 'endjoindate' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IManage.class.php 第 42 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+

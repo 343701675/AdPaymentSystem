@@ -1,0 +1,203 @@
+[ 2016-05-14T13:48:27+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.42823703633621335&K=&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:48:28+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.5269205092918128&K=&V=2.15&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:48:32+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.45517649920657277&K=2.15&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:49:33+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.34811261389404535&K=3.30&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:49:58+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.7252151051070541&K=2.15&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:50:48+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/finsysconfiginfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:50:58+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.6702336012385786&K=&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:51:01+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.9639052951242775&K=2.15&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:51:03+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/finsysconfiginfo
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 24 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:51:09+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.6932563597802073&K=&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+
+[ 2016-05-14T13:51:12+08:00 ] 127.0.0.1 /index.php/WageConfig/FinSysConfig/pagefinsysconfiglist?r=0.4540022409055382&K=2.15&V=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant K - assumed 'K' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant V - assumed 'V' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IFinSysConfig.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\Financial\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 56 行.
+

@@ -1,0 +1,1285 @@
+[ 2016-04-12T08:32:11+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.47705666301772&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T08:32:15+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.4754460423719138&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T09:33:55+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.6474709208123386&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T09:33:56+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.9666519253514707&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T09:34:10+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.3750269787851721&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T09:34:11+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7724277067463845&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T09:47:03+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.9712309257593006&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T09:59:13+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.9148164629004896&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T10:00:49+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.9151405072771013&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T10:03:42+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.5612730646971613&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T10:05:33+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.8371653698850423&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T10:05:34+08:00 ] 127.0.0.1 /index.php/FinancialReport/Export/monthdetailajaxexport?yearmonth=2015-07&keywords=
+ERR: 无法加载控制器:Export
+
+[ 2016-04-12T10:05:48+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.3107588558923453&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T10:05:49+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.033888685051351786&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 56 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+
+[ 2016-04-12T10:20:34+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.8139591640792787&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:20:54+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.6597137260250747&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:20:56+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.42454376560635865&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:20:57+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.4944121341686696&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:21:10+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.37920543691143394&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:21:55+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.9651140812784433&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.026001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.028001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:21:59+08:00 ] 127.0.0.1 /index.php/FinancialReport/Export/monthshare/yearmonth/
+ERR: 非法操作:monthshare
+
+[ 2016-04-12T10:22:59+08:00 ] 127.0.0.1 /index.php/FinancialReport/Export/monthshare/yearmonth/
+ERR: 非法操作:monthshare
+
+[ 2016-04-12T10:23:08+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.3345926282927394&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:23:09+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.1125244467984885&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:23:15+08:00 ] 127.0.0.1 /index.php/FinancialReport/Export/FinancialReport/monthshare/yearmonth/
+ERR: 非法操作:FinancialReport
+
+[ 2016-04-12T10:24:25+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.9136398630216718&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.020001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.021001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:24:29+08:00 ] 127.0.0.1 /index.php/FinancialReport/monthshare
+ERR: 无法加载控制器:Monthshare
+
+[ 2016-04-12T10:24:44+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.1755274727474898&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:24:49+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.12332279165275395&keywords=&yearmonth=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:25:29+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.8868965299334377&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:25:34+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.8757476140744984&keywords=&yearmonth=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.010001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:26:16+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.9021892654709518&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:26:17+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.0633325248491019&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:26:22+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.42433311860077083&keywords=&yearmonth=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:27:31+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.9152827430516481&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:27:58+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.832187534077093&keywords=&yearmonth=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:28:53+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.06819415674544871&keywords=&yearmonth=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:28:57+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.687001887941733&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.010000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:28:58+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.554211065871641&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:29:41+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.07452142727561295&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:30:23+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.059647537767887115&startdate=2015&enddate=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.007001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 45 行.
+
+[ 2016-04-12T10:30:24+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.4654308808967471&startdate=2015&enddate=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 45 行.
+
+[ 2016-04-12T10:30:28+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.5758988212328404&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+
+[ 2016-04-12T10:30:44+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.3267990546301007&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T10:34:10+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.2717242268845439&keywords=&yearmonth=2016-04&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:34:11+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthshareajax?r=0.7160574963781983&keywords=&yearmonth=2016-04&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 70 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 71 行.
+
+[ 2016-04-12T10:34:18+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.9595919069834054&keywords=&yearmonth=2016-04&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:38:22+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.4743737382814288&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T10:38:31+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7054682571906596&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T10:39:09+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.07537067425437272&startdate=2015&enddate=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 45 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 45 行.
+
+[ 2016-04-12T10:39:12+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.8885610355064273&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+
+[ 2016-04-12T10:51:15+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.9575687367469072&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [2] Missing argument 4 for Home\Common\Imonthfin::yearfindetailpage(), called in E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php on line 146 and defined E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+NOTIC: [8] Undefined variable: isexport E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:51:18+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.6831090559717268&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [2] Missing argument 4 for Home\Common\Imonthfin::yearfindetailpage(), called in E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php on line 146 and defined E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+NOTIC: [8] Undefined variable: isexport E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:52:00+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.48366530728526413&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [2] Missing argument 4 for Home\Common\Imonthfin::yearfindetailpage(), called in E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php on line 146 and defined E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+NOTIC: [8] Undefined variable: isexport E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:53:34+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.5414218483492732&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [2] Missing argument 4 for Home\Common\Imonthfin::yearfindetailpage(), called in E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php on line 146 and defined E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 82 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+NOTIC: [8] Undefined variable: isexport E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:54:51+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.5662049048114568&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:54:56+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.4643008157145232&keywords=&yearmonth=&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.012001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:55:27+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.31062201620079577&keywords=&yearmonth=&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:55:32+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.2870850486215204&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:55:38+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.5254049759823829&keywords=&yearmonth=&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.008001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:55:41+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.08274746080860496&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:56:20+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.7602540627121925&keywords=&yearmonth=&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T10:56:24+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.2718793048989028&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:57:27+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.6828391286544502&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T10:58:56+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.7057346638757735&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T11:00:08+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.5144382633734494&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T11:00:40+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.4914752815384418&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T11:00:41+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.055155976908281446&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T11:00:42+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.5982694714330137&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T11:00:50+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yeardetailajax?r=0.5651562632992864&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 83 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 84 行.
+
+[ 2016-04-12T11:04:43+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearshareajax?r=0.2330584623850882&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.010001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.016001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 97 行.
+
+[ 2016-04-12T11:04:54+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearshareajax?r=0.9432489748578519&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 97 行.
+
+[ 2016-04-12T11:05:33+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.8987389486283064&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T11:05:37+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.18414696236141026&keywords=&yearmonth=2016-04&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.009001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T13:56:33+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.6378540196456015&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T13:56:33+08:00 ] 127.0.0.1 /index.php/FinancialReport/Import/monthfinimport
+ERR: 无法加载控制器:Import
+
+[ 2016-04-12T13:56:34+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearshareajax?r=0.2647290003951639&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 97 行.
+
+[ 2016-04-12T13:56:35+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearshareajax?r=0.6091145153623074&keywords=&year=2015&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant year - assumed 'year' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 96 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 97 行.
+
+[ 2016-04-12T13:56:37+08:00 ] 127.0.0.1 /index.php/FinancialReport/Import/monthfinimport
+ERR: 无法加载控制器:Import
+
+[ 2016-04-12T14:30:35+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.22068198071792722&startdate=2015-07&enddate=2016-04
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 35 行.
+
+[ 2016-04-12T14:30:37+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.061116309370845556&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+
+[ 2016-04-12T18:54:18+08:00 ] 127.0.0.1 /index.php/FinancialReport/ManageImport/importdata/0/
+ERR: 无法加载控制器:ManageImport
+
+[ 2016-04-12T19:06:36+08:00 ] 127.0.0.1 /index.php/FinancialReport/ManageImport/importdata/0/
+ERR: 无法加载控制器:ManageImport
+
+[ 2016-04-12T19:07:51+08:00 ] 127.0.0.1 /index.php/FinancialReport/Import/importdata/0/
+ERR: 非法操作:importdata
+
+[ 2016-04-12T19:08:45+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthdetailajax?r=0.7675769354682416&keywords=&yearmonth=2015-07&PageIndex=1&PageSize=20&isexport=0
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+NOTIC: [8] Use of undefined constant funStr - assumed 'funStr' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Use of undefined constant userID - assumed 'userID' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\IDuty.class.php 第 14 行.
+NOTIC: [8] Undefined offset: 1 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 54 行.
+NOTIC: [8] Undefined offset: 2 E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHandler.class.php 第 55 行.
+NOTIC: [8] Use of undefined constant yearmonth - assumed 'yearmonth' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageIndex - assumed 'PageIndex' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant PageSize - assumed 'PageSize' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 57 行.
+NOTIC: [8] Use of undefined constant isexport - assumed 'isexport' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 58 行.
+

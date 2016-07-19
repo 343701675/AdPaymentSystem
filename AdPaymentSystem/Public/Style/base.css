@@ -1,0 +1,182 @@
+/* CSS Document */
+/* 全局标签样式 */
+*{font-size:12px;word-wrap:break-word;word-break:break-all;vertical-align:middle;border:0;padding:0;margin:0;font-family:"微软雅黑",Arial Regular, Consolas;}
+html,body{height:100%;padding:0;margin:0;border:0;}
+ul,li{list-style:none;}
+table,tr,td,th{border-collapse:collapse;overflow:hidden;_zoom:1;}
+a{text-decoration:none;color:#000000;cursor:pointer;}
+
+/* 独立样式 */
+.plus{font-size:24px;color:#34A0E8;text-align:center;}
+.bold{font-weight:bold;}
+.bolder{font-weight:bolder;}
+
+.ft-em11{font-size:1.1em;}
+.ft-em12{font-size:1.2em;}
+.ft-em13{font-size:1.3em;}
+.ft-em14{font-size:1.4em;}
+.ft-em15{font-size:1.5em;}
+.ft-em16{font-size:1.6em;}
+
+.padding5{ padding: 5px;}
+.padding10{ padding: 10px;}
+.padding15{ padding: 15px;}
+.padding20{ padding: 20px;}
+.padding25{ padding: 25px;}
+.padding30{ padding: 30px;}
+
+
+
+
+/* 基本控件样式 */
+.input-button1{border:1px solid #AAAAAA;border-radius:2px;padding:3px 5px;background:#FFFFFF;color:#555555;cursor:pointer;}
+.input-button1:hover{background:#555555;color:#FFFFFF;}
+.input-button1:active{background:#555555;color:#FFFFFF;font-weight:bold;}
+.input-text1{border:1px solid #CCCCCC;border-radius:0px;padding:3px 5px;background:#FFFFFF;color:#555555;width:108px;height:22px;}
+.input-areatext1{border:1px solid #CCCCCC;border-radius:0px;padding:3px 5px;background:#FFFFFF;color:#555555;width:180px;height:66px;}
+
+.input-button2{border:0;border-radius:2px;padding:3px 5px;background:#34A0E8;color:#FFFFFF;cursor:pointer;}
+.input-button2:active{background:#555555;color:#FFFFFF;font-weight:bold;}
+
+.select1{border:1px solid #CCCCCC;border-radius:0px;background:#FFFFFF;color:#555555;width:120px;height:30px;}
+.select2{border:1px solid #CCCCCC;border-radius:0px;background:#FFFFFF;color:#555555;width:50px;height:30px;}
+
+.input-submit1{border:0;border-radius:0px;padding:3px 5px;background:#34a0e7;color:#FFFFFF;cursor:pointer;width:120px;height:25px;}
+.input-submit1:active{background:#555555;color:#FFFFFF;font-weight:bold;}
+
+.input-checkbox1{border:1px solid #AAAAAA;border-radius:2px;padding:3px 5px;background:#FFFFFF;color:#555555;}
+.input-checkbox1:hover{background:#555555;color:#FFFFFF;}
+.input-checkbox1:active{background:#555555;color:#FFFFFF;font-weight:bold;}
+
+.add1{background:#555555;width:120px;height:25px;line-height:25px;overflow:hidden;float:left;margin:10px 0;text-align:center;}
+.add1 a{font-size:14px;color:#FFFFFF;text-align:center;display:block;}
+.add2{background:#999999;width:120px;height:25px;line-height:25px;overflow:hidden;float:left;margin:10px 0;text-align:center;}
+.add2 a{font-size:14px;color:#FFFFFF;text-align:center;display:block;}
+.add3{margin:10px auto;background:#34A0E8;width:120px;height:25px;line-height:25px;overflow:hidden;text-align:center;}
+.add3 a{color:#FFFFFF;font-size:14px;font-weight:bold;text-align:center;display:block;}
+/*搜索*/
+.sousuo{background: #f6f6f6;padding: 0 10px 10px 10px;overflow: hidden;}
+.sousuo1{background: #f6f6f6;padding: 10px 10px 0 10px;overflow: hidden;}
+.sousuo-inline{background: #ffffff;overflow: hidden;}
+
+/*标准数据详情*/
+.tab-info{width:100%;}
+.tab-info,.tab-info td,.tab01 th{border-collapse:collapse;}
+.tab-info td,.tab-info th{background:#FFFFFF;padding:10px 0;vertical-align:middle;color:#555555;}
+.tab-info .tdright{font-weight:bold;font-size:14px;font-family:微软雅黑;text-align:right;}
+.tab-info .tdleft{font-size:12px;font-family:宋体;text-align:left;padding:0 0 0 18px;}
+
+/* 标准数据列表 */
+.table-list{width:100%;}
+.table-list tr{}
+.table-list .jishu td{}
+.table-list .oushu td{background:#F1F1F1;}
+.table-list th,.table-list td{background:#FFFFFF;text-align:center;vertical-align:middle;color:#555555;}
+.table-list th{font-weight:bold;font-size:14px;font-family:微软雅黑;}
+.table-list td{font-size:12px;font-family:宋体;}
+.table-list .mouseon td{background:#999999;color:#FFFFFF;}
+.table-list a{color:#000000;}
+.table-list a:hover{color:orangered;}
+.table-list .a-btn-uns{background:#FFFFFF;border:#666666 solid 1px;color:#666666;cursor:pointer;padding:3px 5px;margin:5px 0;text-decoration:none;border-radius:2px;}
+.table-list .a-btn-uns:hover{text-decoration:none;border:orange solid 1px;color:orange;}
+
+/*格子表，基本不用*/
+.table-01{width: 100%;}   
+.table-01 td,.table-01 th{padding:10px 5px;border:#AAAAAA 2px solid;vertical-align:middle;}
+
+/*分行表,基本不用*/
+.table-02{width:100%;}
+.table-02 td{padding:6px 0;}
+.table-02 .jishu td{background:#F1F1F1}
+
+/*分页*/
+.paging{text-align:center;padding:5px 0;overflow:hidden;_zoom:1;}
+.paging a{width:28px;height:28px;margin:0 5px;padding:2px 8px;color:#AAAAAA;border:1px solid #AAAAAA;border-radius:3px;}
+.paging .common:hover,.paging .prev:hover,.paging .next:hover,.paging .page-button:hover{color:#34A0E8;font-weight:bold;border-color:#34A0E8;}
+.paging .sel{color:#FFFFFF;font-weight:bold;background:#34A0E8;}
+.paging .prev,.paging .next{font-family:consolas;font-size:20px;font-weight:bold;padding:0 6px;}
+.paging .page-text{width:40px;height:24px;text-align:center;border:1px solid #AAAAAA;padding:0;margin:auto 2px;border-radius:3px;}
+.paging .page-button{width:26px;height:26px;text-align:center;border:1px solid #AAAAAA;padding:0;margin:auto 2px;background:#FFFFFF;border-radius:3px;}
+
+
+
+/*登录页样式*/
+.header{background:#34A0E8;overflow:hidden;_zoom:1;}
+.header .header-table{width:1210px;height:60px;margin:auto;}
+.header .header-title,.header .header-version{color:#FFFFFF;vertical-align:bottom;}
+.header .header-title{font-size:1.5em;font-weight:bold;}
+.header .header-version{}
+.login-top{background:url(../Images/login_01.jpg);position:fixed;overflow:hidden;_zoom:1;width:100%;height:60px;}
+.login-content{    position: fixed;width: 1000px;text-align: center;top: 30%;z-index: 10003;left: 50%;margin-left: -500px;}
+.login-footer{background:#292929;position:fixed;width:100%;height:65px;text-align:center;line-height:65px;color:#FFFFFF;overflow:hidden;_zoom:1;bottom:0%;}
+
+
+
+/* 中间部分 左侧*/
+.leftnav{overflow:hidden;_zoom:1; border-right: 1px solid #AAAAAA;}
+.leftnav ul{width:100%;overflow:hidden;_zoom:1;}
+.leftnav ul li{width:100%;overflow:hidden;_zoom:1;}
+.leftnav ul li a{/*height:30px;line-height:30px;*/font-family:"微软雅黑";}
+.leftnav ul li a:hover{color:#34A0E8;}
+.leftnav ul li hr{height:0;border:none;border-top:1px solid #AAAAAA;margin:5px 0;}
+.leftnav ul .title{height:34px;line-height:34px;}
+.leftnav ul .title a{font-weight:bold;color:#000000;display:block;}
+.leftnav ul .title .plus{float: left;display:block;width:18px;font-size:21px;color:#34A0E8;text-align:center;font-family:"微软雅黑";}
+.leftnav ul .items{overflow:hidden;_zoom:1;}
+.leftnav ul .items .i{height:34px;line-height:34px;text-indent:18px;}
+.leftnav ul .items .i:hover{background:url('/Images/left_list_tub.jpg') 6px center no-repeat;}
+.leftnav ul .items .i a{color:#555555;}
+.leftnav ul .items .i a:hover{color:#34A0E8;}
+.leftnav ul .items .current{background:url('/Images/left_list_tub.jpg') 6px center no-repeat;}
+.leftnav ul .items .current a{color:#34A0E8;}
+.leftnav .close .items{display:none;}
+
+/*中间部分 右侧*/
+
+
+.main{ min-height: 1000px;}
+
+/* 底部样式*/
+.footer{height:60px;text-align:center;padding:15px 0;overflow:hidden;_zoom:1;}
+
+
+/*******************************************************基本样式******************************************************************/
+.header-title{color:#FFFFFF;vertical-align:bottom;font-size:1.5em;font-weight:bold;}
+.link-add{background: url('/Public/Images/bg_position.gif') no-repeat scroll 0px -720px;}
+.link-remove{ height: 34px;display: block;line-height: 34px;}
+
+/******************************************************bootstrap新加**************************************************************/
+.container {
+    width: 1300px !important;
+}
+.text-white {
+  color: #ffffff !important;
+}
+a.text-white:hover,
+a.text-white:focus {
+  color: #337ab7 !important;
+}
+
+.text-title {
+  color: #22B5BF !important;
+}
+a.text-title:hover,
+a.text-title:focus {
+  color: #337ab7 !important;
+}
+
+.text-red {
+  color: red !important;
+}
+a.text-title:hover,
+a.text-title:focus {
+  color: #337ab7 !important;
+}
+
+.navbar-brand {
+    padding: 15px 0px !important;
+    line-height: 37px !important;
+}
+.bg-basicbg {  /*加背景颜色*/
+    background: #34A0E8 !important;
+}

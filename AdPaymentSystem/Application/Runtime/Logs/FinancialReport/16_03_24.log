@@ -1,0 +1,204 @@
+[ 2016-03-24T10:49:21+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/list
+ERR: 无法加载控制器:HumanResources
+
+[ 2016-03-24T10:49:26+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/list
+ERR: 无法加载控制器:HumanResources
+
+[ 2016-03-24T10:49:33+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/list
+ERR: 无法加载控制器:HumanResources
+
+[ 2016-03-24T10:49:58+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/list
+ERR: 无法加载控制器:HumanResources
+
+[ 2016-03-24T13:46:16+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.2029263663571328&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:46:24+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7867860333062708&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:47:32+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.12417706311680377&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:48:25+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.15537171135656536&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:50:40+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.07158900564536452&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:53:29+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.9852270183619112&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant month - assumed 'month' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant money - assumed 'money' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant tax - assumed 'tax' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant month - assumed 'month' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant money - assumed 'money' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant tax - assumed 'tax' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant month - assumed 'month' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant money - assumed 'money' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [8] Use of undefined constant tax - assumed 'tax' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+
+[ 2016-03-24T13:54:49+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.647718358784914&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+
+[ 2016-03-24T13:55:04+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.52386498847045&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+
+[ 2016-03-24T13:56:54+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.10298591200262308&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+
+[ 2016-03-24T13:56:59+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.30672891484573483&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+NOTIC: [2] Illegal offset type E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\FinancialReport\Controller\FinancialReportController.class.php 第 23 行.
+
+[ 2016-03-24T13:58:01+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.9498915369622409&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:58:15+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.3953231372870505&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T13:58:40+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.09044660930521786&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.013001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:20:37+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.3257524142973125&startdate=&enddate=&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:24:59+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.3524082633666694&startdate=2015-07&enddate=function+getFullYear()+%7B+%5Bnative+code%5D+%7D-function+getMonth()+%7B+%5Bnative+code%5D+%7D&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:25:29+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.857636783272028&startdate=2015-07&enddate=2016-2&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.007000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:27:34+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.5758381152991205&startdate=2015-07&enddate=2016-2&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:32:53+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.9246692354790866&startdate=2015-07&enddate=2016-03&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:33:16+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.8428316607605666&startdate=2015&enddate=2016&PageIndex=1&PageSize=20
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:34:55+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7097722282633185&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-24T14:35:21+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.7748137819580734&startdate=2015&enddate=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+

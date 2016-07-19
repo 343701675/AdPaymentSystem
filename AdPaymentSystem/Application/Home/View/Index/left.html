@@ -1,0 +1,79 @@
+<block name="Left">
+    <ul>
+        <li class="title"><a class="plus" href="javascript:;">-</a><a class="text-muted" href="javascript:void(0);"><strong>财务预收款</strong></a></li>
+        <li class="items">
+            <div class="i"><a class="text-muted" href="{:U('Home/Index/defaultmoney')}">期初数据导入</a></div>
+            <div class="i"><a class="text-muted" href="{:U('Home/Index/customdebit')}">客户借方导入</a></div>
+            <div class="i"><a class="text-muted" href="{:U('Home/Index/customcredit')}">客户贷方导入</a></div>
+            <div class="i"><a class="text-muted" href="{:U('Home/Custom/detail')}">月查询客户预收明细表</a></div>
+            <div class="i"><a class="text-muted" href="{:U('Home/Custom/month')}">月汇总表</a></div>
+            <div class="i"><a class="text-muted" href="{:U('Home/Custom/year')}">年汇总表</a></div>
+        </li>
+        <li><hr /></li>
+    </ul>
+</block>
+<script type="text/javascript">
+    (function () {
+        /* 装载左侧导航开启(闭合)状态 */
+        var _leftnavstate = $.cookie('_left_nav_state');
+        //console.log(_leftnavstate);
+        if (_leftnavstate != null) {
+            var list1 = $('.content-left-nav ul');
+            for (var i = 0; i < list1.length; i++) {
+                var s = '' + _leftnavstate.charAt(i);
+                if (s == '0') {
+                    list1[i].className = 'close';
+                    $(list1[i]).find('a[class=plus]').html('+');
+                }
+            }
+        }
+
+        /* 判断当前页面，并且选中左侧链接 */
+        var __curPage = '@Request.Path.ToLower()';
+        if (__curPage == '') __curPage = '/';
+        $('.content-left-nav ul .items .i a').each(function () {
+            var href = $(this).attr('href') == null ? "" : $(this).attr('href').toLowerCase();
+            if (href == __curPage) {
+                $(this).parent().addClass('current');
+                if ($(this).parent().parent().parent().hasClass('close'))
+                    $(this).parent().parent().parent().removeClass('close');
+                return;
+            }
+        });
+    })();
+
+    /* 保存左侧导航状态 */
+    var SaveLeftNav = function () {
+        var s1 = '';
+        var list = $('.content-left-nav ul');
+        for (var i = 0; i < list.length; i++) {
+            var classTitle = list[i].className;
+            if (typeof (classTitle) != 'undefined' && classTitle == 'close')
+                s1 += '0';
+            else
+                s1 += '1';
+        }
+        //alert(s1);
+        $.cookie('_left_nav_state', s1, { expires: 360, path: '/' });
+    }
+
+    /* 展开/收缩左侧导航 */
+    $('.content-left-nav ul .title').click(function () {
+        var o = $(this).parent();
+
+        if ($(o).hasClass('close')) {
+            $(o).find('.items').slideDown('fast', function () {
+                $(o).removeClass('close');
+                $(o).find('a[class=plus]').html('-');
+                SaveLeftNav();
+            });
+        }
+        else {
+            $(o).find('.items').slideUp('fast', function () {
+                $(o).addClass('close');
+                $(o).find('a[class=plus]').html('+');
+                SaveLeftNav();
+            });
+        }
+    });
+</script>

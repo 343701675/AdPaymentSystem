@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><script>alert('上传的文件超过了 php.ini 中 upload_max_filesize 选项限制的值！');location.href='/index.php/Home/Index/customdebit.html'; </script>

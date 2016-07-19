@@ -1,0 +1,12 @@
+[ 2016-04-07T14:07:32+08:00 ] 127.0.0.1 /index.php/HumanResources/ManageImport/importdatapost
+ERR: The filename ./Public/Upload/2016-04-07/5705f924a10c3.xls is not recognised as an OLE file
+
+[ 2016-04-07T15:03:26+08:00 ] 127.0.0.1 /index.php/HumanResources/ManageImport/importdatapost
+ERR: Invalid cell coordinate AAAA1
+
+[ 2016-04-07T15:07:34+08:00 ] 127.0.0.1 /index.php/HumanResources/ManageImport/importdatapost
+ERR: Invalid cell coordinate AAAA1
+
+[ 2016-04-07T19:47:00+08:00 ] 127.0.0.1 /index.php/HumanResources/ManageImport/importdatapost
+ERR: Your requested sheet index: 0 is out of bounds. The actual number of sheets is 0.
+

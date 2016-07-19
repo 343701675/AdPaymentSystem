@@ -1,0 +1,187 @@
+[ 2016-03-30T08:25:26+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.5114748678170145&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-30T14:29:27+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.821173544973135&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2016-03-30T14:29:56+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7747379303909838&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: SXF E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHelper.class.php 第 10 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:30:03+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.127358055440709&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: SXF E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHelper.class.php 第 10 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:30:52+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.6751765387598425&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: SXF E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\APIHelper.class.php 第 10 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:31:54+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.628541361540556&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:32:43+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7145889378152788&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:32:56+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.13818317605182528&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:33:09+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.16934149572625756&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:33:19+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.08558671083301306&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T14:42:03+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.9425388518720865&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T16:15:47+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7479615523479879&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T16:16:29+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.0238374809268862&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T16:21:03+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.8067125098314136&startdate=2015-07&enddate=2016-02
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T18:57:24+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.7206029500812292&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T19:07:38+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.4965832221787423&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T19:10:25+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.14383151638321579&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T19:12:03+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/monthajax?r=0.36279794154688716&startdate=2015-07&enddate=2016-03
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Use of undefined constant startdate - assumed 'startdate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+NOTIC: [8] Use of undefined constant enddate - assumed 'enddate' E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Home\Common\Imonthfin.class.php 第 16 行.
+
+[ 2016-03-30T19:12:59+08:00 ] 127.0.0.1 /index.php/FinancialReport/FinancialReport/yearajax?r=0.02141136326827109&startdate=2015&enddate=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+

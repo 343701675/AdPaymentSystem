@@ -1,0 +1,33 @@
+[ 2016-04-19T08:35:10+08:00 ] 127.0.0.1 /index.php/HumanResources/ManageImport/importdata
+ERR: 无法加载控制器:ManageImport
+
+[ 2016-04-19T08:39:05+08:00 ] 127.0.0.1 /index.php/HumanResources/ManageImport/importdata
+ERR: 无法加载控制器:ManageImport
+
+[ 2016-04-19T16:37:34+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/Public/JsonData/managerList.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:Public
+
+[ 2016-04-19T16:38:48+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/JsonData/managerList.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:JsonData
+
+[ 2016-04-19T16:39:51+08:00 ] 127.0.0.1 /index.php/HumanResources/Staff/__PUBLIC__/JsonData/managerList.json
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+NOTIC: [8192] Function mcrypt_cbc() is deprecated E:\C#\FinancialSystem(SVN)\FinancialSystem\Application\Common\Common\DesHelper.class.php 第 44 行.
+INFO: Run Common\Behavior\ActionStartBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\FinancialSystem(SVN)\FinancialSystem\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:__PUBLIC__
+

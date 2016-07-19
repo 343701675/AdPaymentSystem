@@ -1,0 +1,69 @@
+<extend name="./ShareView/Layout.html" />
+<block name="PageTitle">首页</block>
+<block name="Head">
+<script type="text/javascript">
+    var vm = avalon.define({
+        $id: "list",
+        datalist: [],
+        customname: '',
+        month: '{$month}',
+        year: '{$year}'
+    });
+
+    var loadData = function () {
+        $.ajax({
+            url: '/index.php/Home/Custom/detailajax',
+            type: 'get',
+            dataType: "json",
+            async: true,
+            data: { r: Math.random(), customname: vm.customname, month: vm.month, year: vm.year },
+            success: function (data) {
+                //console.log(data.RowCount);
+                vm.datalist = data;
+            }
+        });
+    };
+
+    $(function () {
+        //初始化
+        loadData();
+        //搜索
+        $('#search').click(loadData);
+    });
+</script>
+</block>
+<block name="Body">
+    <div class="col-md-12 text-title ft-em15 padding10">月查询客户预收明细表</div>
+    <form class="well form-inline" id="fromlist" ms-controller="list" onkeypress="if (event.keyCode == 13) { loadData();}" onsubmit="return false;">
+        <div class="form-group" style="margin-top: 15px;">
+            <label for="customname">客户名称:</label>
+            <input type="text" name="customname" id="customname" class="form-control" ms-duplex="customname" />
+            <label for="month">月份:</label>
+            <input type="text" name="month" id="month" class="form-control" ms-duplex="month" onfocus="WdatePicker({ isShowClear: true, readOnly: false, skin: 'ext', dateFmt: 'yyyy-MM' })" />
+            <label for="year">年份:</label>
+            <input type="text" name="year" id="year" class="form-control" ms-duplex="year" onfocus="WdatePicker({ isShowClear: true, readOnly: false, skin: 'ext', dateFmt: 'yyyy' })" />
+        </div>
+
+        <button type="button" id="search" class="btn btn btn-primary" style="margin-top: 15px;" data-loading-text="加载中...">查询</button>
+
+    </form>
+    <div class="form-group" style="margin-top: 15px;" ms-controller="list">
+        <div ms-if="customname==''" class="col-sm-12 text-center ft-em12 padding10" id="error">客户名称必须准确填写</div>
+    </div>
+    <table class="table table-hover table-bordered" ms-controller="list">
+        <tr>
+            <th>年月</th>
+            <th>客户名称</th>
+            <th>本期借方</th>
+            <th>本期贷方</th>
+            <th>期末金额</th>
+        </tr>
+        <tr ms-repeat="datalist">
+            <td>{{el.yearmonth}}</td>
+            <td>{{el.customname}}</td>
+            <td>{{el.debitmoney}}</td>
+            <td>{{el.creditmoney}}</td>
+            <td>{{el.finalmoney}}</td>
+        </tr>
+    </table>
+</block>
