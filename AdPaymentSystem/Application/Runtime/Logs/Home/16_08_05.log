@@ -1,0 +1,46 @@
+[ 2016-08-05T15:52:18+08:00 ] 172.30.16.3 /index.php/Home/Custom/monthajax?r=0.5871846072485178&customname=&month=2016-08
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-08-05T15:52:20+08:00 ] 172.30.16.3 /index.php/Home/Custom/yearajax?r=0.9658241252486293&customname=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-08-05T15:52:21+08:00 ] 172.30.16.3 /index.php/Home/Custom/detailajax?r=0.05537570241198453&customname=&month=&year=2016
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+
+[ 2016-08-05T15:52:25+08:00 ] 172.30.16.3 /index.php/Home/Custom/monthajax?r=0.8031175440666756&customname=&month=2016-08
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-08-05T15:52:27+08:00 ] 172.30.16.3 /index.php/Home/Custom/monthajax?r=0.6894394693687791&customname=&month=2016-06
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
+[ 2016-08-05T15:52:31+08:00 ] 172.30.16.3 /index.php/Home/Custom/monthajax?r=0.3269104503393554&customname=&month=2019-06
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\C#\AdPaymentSystem\AdPaymentSystem\AdPaymentSystem\ThinkPHP\Common\functions.php ç¬¬ 1263 è¡Œ.
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÄ¿±ê¼ÆËã»ú»ý¼«¾Ü¾ø£¬ÎÞ·¨Á¬½Ó¡£
+
+
